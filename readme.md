@@ -1,5 +1,5 @@
 
-<h3> Community Name: `Zenith` </h3>
+<h3> Community Name: </h3> `Zenith` 
 <h3>ERC20 Token: `ZENT` </h3>
 
 
