@@ -1,6 +1,11 @@
 
-<h3> Community Name: </h3> `Zenith` 
-<h3>ERC20 Token: `ZENT` </h3>
+<h3> Community Name: </h3>
+
+`Zenith`
+---------------------------------------------------
+<h3>ERC20 Token:  </h3>
+
+ERC20 Token : `ZENT`
 
 
 <h1>Launch A Community On Habitat And Document Feedback</h1>
