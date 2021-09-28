@@ -6,10 +6,15 @@ ERC20 Token: `ZENT`
 <h1>Launch A Community On Habitat And Document Feedback</h1>
 
 ✅ Change your username
+
 ✅ Top-up the gas tank
+
 ✅ Create a virtual erc-20
+
 ✅ Create a community
+
 ✅ Create a treasury
+
 ✅ Create a proposal
 
 🔲 Deposit a governance token from Ethereum L1 to Habitat
