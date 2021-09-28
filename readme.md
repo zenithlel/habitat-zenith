@@ -18,8 +18,11 @@ ERC20 Token: `ZENT`
 ✅ Create a proposal
 
 🔲 Deposit a governance token from Ethereum L1 to Habitat
+
 🔲Request Withdrawal from Habitat to Mainnet
+
 🔲 Deploy your own virtual erc-20 on Mainnet
+
 ✅ Create treasury proposal with virtual erc-20 token
 🔲 Let the vote run and finalize the attached transfers or actions, e.g. payout to community members
 
