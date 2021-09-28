@@ -1,6 +1,6 @@
 
-Community Name: `Zenith`
-ERC20 Token: `ZENT`
+<h3> Community Name: `Zenith` </h3>
+<h3>ERC20 Token: `ZENT` </h3>
 
 
 <h1>Launch A Community On Habitat And Document Feedback</h1>
@@ -24,6 +24,7 @@ ERC20 Token: `ZENT`
 🔲 Deploy your own virtual erc-20 on Mainnet
 
 ✅ Create treasury proposal with virtual erc-20 token
+
 🔲 Let the vote run and finalize the attached transfers or actions, e.g. payout to community members
 
 `ZenithLel`
